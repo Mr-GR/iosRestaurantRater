@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RestaurantRater
 //
-//  Created by Manuel Guevara Reyes on 3/26/24.
+//  Created by Manuel Guevara Reyes on 3/27/24.
 //
 
 import UIKit
